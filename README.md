@@ -12,14 +12,18 @@ What I have completed:
 - Log in account
 - Sign up account
 - Create Tweet
-*** 2.2 
+*** 2.2 Technology Choices
 - Front-end: HTML,CSS,...
 - Back-end: Java
 - Database: http://localhost/phpmyadmin
 
 What can be improved:
-1. More unit tests for back-end
-2. Write sone end-to end tests
-3. Real-time sync for Tweet using socket.io
-4. The front-end can be build and deployed Google Store for faster performance
-5. We can create 1 more branch called releases. The CI should suport deploying the app when code is merged to this branch.
+- More unit tests for back-end
+- Write sone end-to end tests
+- Real-time sync for Tweet using socket.io
+- The front-end can be build and deployed Google Store for faster performance
+- We can create 1 more branch called releases. The CI should suport deploying the app when code is merged to this branch.
+3. Technical document:
+https://nguyenhuuphuoc-my.sharepoint.com/:w:/g/personal/itexpert_nguyenhuuphuoc_onmicrosoft_com/EcQdlyNJ_g5GkFndJdlbtVcBOx1ZaGVELMuSQQ1xOKiPog?e=lmCtPz
+4. Database:
+https://nguyenhuuphuoc-my.sharepoint.com/:u:/g/personal/itexpert_nguyenhuuphuoc_onmicrosoft_com/EWa1EXhHy3xBnEIh-OhLvnsBMu9cdxNvjyE-Fgw5bh1TjQ?e=TvNV91
