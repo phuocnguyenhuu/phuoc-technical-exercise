@@ -8,10 +8,12 @@ In my program, it use the database with name as mydb (http://localhost/phpmyadmi
 2. Other notes:
 Technical document: 
 What I have completed:
+
 *** 2.1 Functionalities:
 - Log in account
 - Sign up account
 - Create Tweet
+
 *** 2.2 Technology Choices
 - Front-end: HTML,CSS,...
 - Back-end: Java
@@ -25,5 +27,5 @@ What can be improved:
 - We can create 1 more branch called releases. The CI should suport deploying the app when code is merged to this branch.
 3. Technical document:
 https://nguyenhuuphuoc-my.sharepoint.com/:w:/g/personal/itexpert_nguyenhuuphuoc_onmicrosoft_com/EcQdlyNJ_g5GkFndJdlbtVcBOx1ZaGVELMuSQQ1xOKiPog?e=lmCtPz
-4. Database:
+5. Database:
 https://nguyenhuuphuoc-my.sharepoint.com/:u:/g/personal/itexpert_nguyenhuuphuoc_onmicrosoft_com/EWa1EXhHy3xBnEIh-OhLvnsBMu9cdxNvjyE-Fgw5bh1TjQ?e=TvNV91
